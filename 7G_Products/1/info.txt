@@ -1,0 +1,3 @@
+Description: salam test
+Price: 987779
+Table: [color: blue, size: 70*70*70, size: 70*70*70]
