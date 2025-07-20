@@ -1,3 +1,4 @@
-Description: salam test
+Description: updated product
 Price: 987779
-Table: [color: blue, size: 70*70*70, size: 70*70*70]
+Table: [c: blueuu, s: 70*70*70, s: 990*990*990]
+ProductID: 1
