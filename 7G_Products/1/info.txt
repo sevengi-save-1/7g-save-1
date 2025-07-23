@@ -1,4 +1,0 @@
-Description: updated product
-Price: 987779
-Table: [GGGGG: blueuu, s: 70*70*70, s: 990*990*990]
-ProductID: 1
