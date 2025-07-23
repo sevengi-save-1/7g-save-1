@@ -1,4 +1,0 @@
-Description: ففف
-Price: 700
-Table: [فف: 66, عع: 88]
-ProductID: 280
