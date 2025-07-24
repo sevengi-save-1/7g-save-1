@@ -1,5 +1,0 @@
-Name: تست
-Description: تست تت
-Price: 10
-Table: [تت: تت]
-ProductID: 4545
