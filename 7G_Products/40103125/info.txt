@@ -1,5 +1,5 @@
-Name: تخته سرو ps9 پلای وود 
-Description: Price: 150000
+Name: تخته سرو ps9 پلای وود
+Description: 
 Price: 150000
 Table: [جنس: پلای وود, ابعاد: 40*15, تعداد در کارتن: 20]
 ProductID: 40103125
