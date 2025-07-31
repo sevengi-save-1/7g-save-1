@@ -1,5 +1,0 @@
-Name: test
-Description: test
-Price: 909090
-Table: [tt: tt, tttt: tt]
-ProductID: 1010
