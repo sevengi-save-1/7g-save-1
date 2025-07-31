@@ -1,0 +1,7 @@
+{
+  "productId": 5,
+  "name": "کتونی نایک مدل Air Max",
+  "price": 3200000,
+  "description": "پوشاک",
+  "table": "پوشاک"
+}
