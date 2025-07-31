@@ -1,7 +1,0 @@
-{
-  "productId": 1,
-  "name": "گوشی موبایل سامسونگ Galaxy A54",
-  "price": 14500000,
-  "description": "الکترونیک",
-  "table": "الکترونیک"
-}
