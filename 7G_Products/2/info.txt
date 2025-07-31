@@ -1,7 +1,0 @@
-{
-  "productId": 2,
-  "name": "لپ‌تاپ Lenovo Ideapad 3",
-  "price": 24500000,
-  "description": "کامپیوتر",
-  "table": "کامپیوتر"
-}
