@@ -1,0 +1,4 @@
+Name: لپ‌تاپ Lenovo Ideapad 3
+Price: 24500000
+Description: کامپیوتر
+Table: []
