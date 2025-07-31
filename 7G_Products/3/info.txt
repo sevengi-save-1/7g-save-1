@@ -1,0 +1,7 @@
+{
+  "productId": 3,
+  "name": "هدفون بی‌سیم JBL Tune 510BT",
+  "price": 1750000,
+  "description": "صوتی",
+  "table": "صوتی"
+}
