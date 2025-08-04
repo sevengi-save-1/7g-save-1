@@ -1,0 +1,4 @@
+Name: استند چند منظوره
+Price: 1220000
+Description: 
+Table: [جنس: پلای وود, ابعاد: NULL, تعداد در کارتن: NULL]
