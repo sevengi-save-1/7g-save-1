@@ -1,4 +1,0 @@
-Name: گوشی موبایل سامسونگ Galaxy A54
-Price: 14500000
-Description: الکترونیک
-Table: []
