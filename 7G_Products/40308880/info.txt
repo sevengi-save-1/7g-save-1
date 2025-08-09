@@ -1,4 +1,1 @@
-Name: استند پایه دستمالی
-Price: 690000
-Description: 
-Table: [جنس: پلای وود, ابعاد: NULL, تعداد در کارتن: 1]
+Name: استند پایه دستمالی| Price: 690000| Description: | Table: [جنس: پلای وود| ابعاد: NULL| تعداد در کارتن: 1]| ProductID: 40308880
