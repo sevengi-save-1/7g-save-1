@@ -1,1 +1,1 @@
-sss
+$('Edit Fields').item.json.content
