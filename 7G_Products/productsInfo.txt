@@ -1,0 +1,2 @@
+| productID: 90436458 , Product info: Name: ظرف غذای کودک ساده | Price: 385000 | Description: داخل استیل | Table: [تعداد در کارتن: 12 عدد] | |
+| productID: 90436483 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف، کیفیت + تضمین | Table: [-] | |
