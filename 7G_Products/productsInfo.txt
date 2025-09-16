@@ -1,2 +1,2 @@
 | productID: 90436404 , Product info: Name: ساعت مچی اسپرت سيليكونی جنوا | Price: 199 | Description: همراه دستبند، گردنبند، انگشتر، گوشواره 🦋. رنگ مشکی تمام شد. تعداد محدود. فروش ويژه. | Table: [کد محصول: 204] | |
-| productID: 90436412 , Product info: Name: وارمر چوبی | Price: 45000 | Description: خرید کارتنی تخفیف. کیفیت + تضمین. | Table: [تعداد درکارتن: ۲۴ عدد] | |
+| productID: 90436413 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف، کیفیت + تضمین | Table: [-] | |
