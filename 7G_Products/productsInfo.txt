@@ -1,1 +1,1 @@
-| productID: 90436446 , Product info: Name: استند تخته سرو | Price: 48000 | Description: - | Table: [تعداد درکارتن: ۲۴ عدد] | |
+| productID: 90436447 , Product info: Name: استوانه همه کاره | Price: 38000 | Description: - | Table: [تعداد درکارتن: ۳۰ عدد] | |
