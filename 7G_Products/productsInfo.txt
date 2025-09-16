@@ -1,5 +1,0 @@
-
-| productID: تلویزیون Xvision 6657 , Product info: 5456765 |
-| productID: تلویزیون Xvision 6657 , Product info: 5456765 |
-| productID: تلویزیون Xvision 3434 , Product info: 3434 |
-| productID: 90436388 , Product info: Name: ساعت مچی اسپرت سيليكونی جنوا | Price: 199 | Description: همراه دستبند، گردنبند، انگشتر، گوشواره. قیمت حراج: ۱۹۹ تومان. قیمت قبل: ۳۴۹ تومان. رنگ مشکی تمام شد. تعداد محدود. فروش ویژه. | Table: - | ProductID: 204 |
