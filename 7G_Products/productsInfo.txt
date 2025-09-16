@@ -1,3 +1,3 @@
 undefined
 | productID: 90436393 , Product info: Name: ساعت مچي صفحه دياموند sanda | Price: 569 | Description: درخشش فوق العاده و طراحي لاكچري. ضدآب، كيفيت عالي، موتور ژاپن. امكان پرداخت درب منزل. | Table: [کد: 624] | |
-| productID: 90436395 , Product info: Name: ساعت مچی اسپرت سيليكونی جنوا | Price: 199 | Description: همراه دستبند، گردنبند، انگشتر، گوشواره. تعداد محدود. فروش ویژه. | Table: [کد محصول: 204] | |
+| productID: 90436397 , Product info: Name: وارمر چوبی | Price: 45000 | Description: خرید کارتنی تخفیف، کیفیت + تضمین | Table: [تعداد در کارتن: 24] | |
