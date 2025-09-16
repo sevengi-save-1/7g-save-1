@@ -1,2 +1,2 @@
 ���
-| productID: 90436436 , Product info: Name: وارمر چوبی | Price: 45000 | Description: خرید کارتنی تخفیف کیفیت + تضمین | Table: [تعداد درکارتن: ۲۴ عدد] | |
+| productID: 90436437 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف کیفیت + تضمین | Table: [-] | |
