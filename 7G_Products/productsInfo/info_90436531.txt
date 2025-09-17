@@ -1,6 +1,0 @@
-| productID: 90436526 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن:18] | | 
- | productID: 90436527 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: ۱۸ عدد] | |, 
- | productID: 90436528 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: سفارش اجناس ادمین: @Amirhosein1644، کانال تلگرام: @amir_cardoli72، شماره تماس: ۰۹۳۹۴۰۸۱۶۴۴ و ۰۹۱۲۵۳۰۷۰۲۷ | Table: [تعداد درکارتن: ۱۸ عدد] | |, 
- | productID: 90436529 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: 18] | |, 
- | productID: 90436530 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد درکارتن: ۱۸ عدد] | |, 
- | productID: 90436531 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: ۱۸] | |,
