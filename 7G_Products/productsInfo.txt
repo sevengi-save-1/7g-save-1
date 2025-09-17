@@ -1,2 +1,0 @@
-| productID: 90436519 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: ۱۸ عدد] | | 
- | productID: 90436521 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: 18 عدد] | |,
