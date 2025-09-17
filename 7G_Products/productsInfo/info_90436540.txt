@@ -1,0 +1,7 @@
+| productID: 90436532 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد درکارتن: ۱۸ عدد] | | 
+ | productID: 90436533 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: ۱۸ عدد] | |, 
+ | productID: 90436534 , Product info: Name: اردو ماه و ستاره | Price: 110000 | Description: - | Table: [ابعاد: 27 سانت|تعداد در کارتن: 24 عدد] | |, 
+ | productID: 90436535 , Product info: Name: روغن ریز ۱لیتر پیرکس | Price: 235000 | Description: - | Table: [تعداد در کارتن: ۲۴ عدد | شعله مستقیم: بله] | |, 
+ | productID: 90436537 , Product info: Name: فرنچ پرس ۶۰۰میل طرح استارباکس | Price: 99000 | Description: - | Table: [تعداد در کارتن: ۳۰ عدد] | |, 
+ | productID: 90436539 , Product info: Name: بوته آویز شمشاد | Price: 65000 | Description: - | Table: [تعداد در کارتن: ۲۰] | |, 
+ | productID: 90436540 , Product info: Name: قوری پیرکس ۱۱۰۰ میل | Price: 75000 | Description: - | Table: [تعداد در کارتن: ۱۸ عدد] | |,
