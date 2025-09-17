@@ -1,0 +1,2 @@
+| productID: 90436486 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف و کیفیت + تضمین | Table: - | |
+| productID: 90436488 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف. کیفیت + تضمین. | Table: - | | , | productID: 90436492 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف. کیفیت + تضمین. | Table: [-] | | , | productID: 90436493 , Product info: Name: جاقاشق چنگال ۲ قلو | Price: 165000 | Description: خرید کارتنی تخفیف، کیفیت + تضمین | Table: [-] | |
