@@ -1,5 +1,0 @@
-| productID: 90436572 , Product info: Name: الگانس ظرفشویی ۱۲ نفره 9005W | Price: 315000000 | Description: - | Table: - | | 
- | productID: 90436573 , Product info: Name: الگانس ظرفشویی ۱۲ نفره 9005S | Price: 325000000 | Description: - | Table: [] | |, 
- | productID: 90436574 , Product info: Name: الگانس ظرفشویی ۱۵ نفره 9106W | Price: 335000000 | Description: - | Table: [] | |, 
- | productID: 90436575 , Product info: Name: الگانس ظرفشویی ۱۵ نفره 9106S | Price: 345000000 | Description: - | Table: [] | |, 
- | productID: 90436576 , Product info: Name: الگانس ظرفشویی ۶ نفره پنل مشکی سفید | Price: 295000000 | Description: - | Table: - | |,
